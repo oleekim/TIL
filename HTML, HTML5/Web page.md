@@ -9,7 +9,7 @@
 <main> main content - SEO
 <img src="링크" alt="설명">
 <a href="링크">설명</a> 여기서 a (anchor)는 링크
+~~~
 
 -어떤 elements는 self-closing이고 어떤건 반드시 뒤에서 닫아줘야됨 </p>처럼
 -반드시 소문자
-~~~
