@@ -2,6 +2,7 @@
 ----------------------
 ## elements
 
+~~~
 <h> heading: <h1> <h2>...
 <p> paragraph
 <!-- comment -->
@@ -11,3 +12,4 @@
 
 -어떤 elements는 self-closing이고 어떤건 반드시 뒤에서 닫아줘야됨 </p>처럼
 -반드시 소문자
+~~~
